@@ -71,18 +71,22 @@
 
 <p align="left">
   <a href="mailto:kamaliganesan2005@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="25" alt="Gmail" />
+    <strong> Email</strong>
   </a>
-  <a href="https://www.linkedin.com/in/kamali-ganesan-27584934b/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/kamali-ganesan-27584934b/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="25" alt="LinkedIn" />
+    <strong> LinkedIn</strong>
   </a>
-  <a href="https://github.com/KamaliGK123" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" alt="GitHub" />
+  <br><br>
+  <a href="https://github.com/KamaliGK123" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="25" alt="GitHub" />
+    <strong> GitHub</strong>
   </a>
 </p>
 
 ---
-
 <p align="center">
   💙 Building. Learning. Improving.
 </p>
