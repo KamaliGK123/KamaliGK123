@@ -9,12 +9,12 @@
 
 ### About Me
 
-🎓 BTech Information Technology Student
-💻 Focused on Frontend Development using React.js
-🚀 Building interactive and responsive web applications
+🎓 BTech Information Technology Student <br>
+💻 Focused on Frontend Development using React.js <br>
+🚀 Building interactive and responsive web applications <br>
 🛠️ Learning by developing projects and exploring new technologies
-🏆 TN-IMPACT 2026 Hackathon Special Prize Winner
-🎯 Goal: To become a skilled Frontend Developer
+🏆 TN-IMPACT 2026 Hackathon Special Prize Winner <br>
+🎯 Goal: To become a skilled Frontend Developer <br>
 
 ---
 
