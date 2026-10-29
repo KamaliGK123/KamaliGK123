@@ -5,10 +5,6 @@
   Passionate about building responsive, user-friendly web applications and learning through hands-on projects.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KamaliGK123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🧠 About Me
