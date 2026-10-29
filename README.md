@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamali Ganesan</h1>
-<h3 align="center">Frontend Developer | React.js Developer</h3>
+<h3 align="center">Frontend Dev Engineer</h3>
 
 <p align="center">
   Passionate about building responsive, user-friendly web applications and learning through hands-on projects.
@@ -12,7 +12,7 @@
 🎓 BTech Information Technology Student <br>
 💻 Focused on Frontend Development using React.js <br>
 🚀 Building interactive and responsive web applications <br>
-🛠️ Learning by developing projects and exploring new technologies
+🛠️ Learning by developing projects and exploring new technologies<br>
 🏆 TN-IMPACT 2026 Hackathon Special Prize Winner <br>
 🎯 Goal: To become a skilled Frontend Developer <br>
 
