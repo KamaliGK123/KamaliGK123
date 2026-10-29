@@ -69,19 +69,50 @@
 
 Connect With Me
 
-<p align="left">
-  <a href="mailto:kamaliganesan2005@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email" target="blank"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kamali-ganesan-27584934b/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn" target="blank"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/KamaliGK123">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" alt="GitHub" target="blank"/>
-  </a>
-</p>
+<section id="contact">
+  <h2>Connect With Me</h2>
 
+  <div class="social-links">
 
-<p align="center">
-  <i>Learning continuously. Building consistently. Improving every day.</i>
-</p>
+    <a
+      href="mailto:kamaliganesan2005@gmail.com"
+      class="social-link"
+      aria-label="Email Kamali"
+    >
+      <img
+        src="https://img.icons8.com/color/48/gmail-new.png"
+        alt="Gmail"
+      />
+      <span>Email</span>
+    </a>
+
+    <a
+      href="https://www.linkedin.com/in/kamali-ganesan-27584934b/"
+      class="social-link"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Open LinkedIn profile in a new tab"
+    >
+      <img
+        src="https://img.icons8.com/color/48/linkedin.png"
+        alt="LinkedIn"
+      />
+      <span>LinkedIn</span>
+    </a>
+
+    <a
+      href="https://github.com/KamaliGK123"
+      class="social-link"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Open GitHub profile in a new tab"
+    >
+      <img
+        src="https://img.icons8.com/ios-glyphs/48/github.png"
+        alt="GitHub"
+      />
+      <span>GitHub</span>
+    </a>
+
+  </div>
+</section>
