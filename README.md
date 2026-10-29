@@ -9,12 +9,42 @@
 
 ### About Me
 
-🎓 BTech Information Technology Student <br>
+🎓 B.Tech Information Technology Student <br>
 💻 Focused on Frontend Development using React.js <br>
 🚀 Building interactive and responsive web applications <br>
-🛠️ Learning by developing projects and exploring new technologies<br>
+🛠️ Learning by developing projects and exploring new technologies <br>
 🏆 TN-IMPACT 2026 Hackathon Special Prize Winner <br>
 🎯 Goal: To become a skilled Frontend Developer <br>
+
+---
+
+### Education
+
+- **B.Tech – Information Technology**  
+  SSM Institute of Engineering and Technology, Dindigul  
+  📅 2023 – 2027 | CGPA: 8.5/10
+
+- **Higher Secondary Certificate (HSC)**  
+  Annamalaiar Mills Girls Higher Secondary School, Dindigul  
+  📅 2023 | 83%
+
+- **Secondary School Leaving Certificate (SSLC)**  
+  Annamalaiar Mills Girls Higher Secondary School, Dindigul  
+  📅 2021 | 90%
+
+---
+
+### Internships
+
+- **Frontend Developer Intern — Ekhai Business Services**  
+  📅 August 2025  
+  - Developed responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap.
+  - Implemented reusable UI sections, interactive components, and 3D glassmorphism effects.
+
+- **UI/UX Design Intern — OneYes Infotech Solution**  
+  📅 February 2025  
+  - Designed a Spotify-inspired music streaming application in Figma.
+  - Created Home, Playlist, Player, Library, Search, and Menu screens.
 
 ---
 
@@ -26,7 +56,7 @@
 
 ---
 
-###  Tools & Technologies
+### Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools and Technologies" />
@@ -36,21 +66,13 @@
 
 ### Achievements
 
--  TN-IMPACT 2026 Hackathon — Special Prize Winner
--  Participated in Zoho Hackathon
--  Built multiple projects to improve frontend development skills
+- 🏆 TN-IMPACT 2026 Hackathon — Special Prize Winner
+- 💡 Participated in Zoho Hackathon
+- 🚀 Built multiple projects to improve frontend development skills
 
 ---
 
-###  Projects
-
-- **Personal Portfolio** — Showcasing my skills, projects, and achievements.
-- **Voice Assistant Project** — Exploring voice-based interactions and user-friendly interfaces.
-- **AI-Powered Projects** — Building projects that explore AI integration and practical applications.
-
----
-
-###  GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KamaliGK123&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
@@ -62,15 +84,19 @@
 </p>
 
 ---
+
 ## Resume
 
 <p>
   <a href="./Kamali_Ganesan_Resume.pdf">
     <img src="https://img.shields.io/badge/RESUME-555555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Resume"/>
-  </a><a href="./Kamali_Ganesan_Resume.pdf" download>
+  </a>
+  <a href="./Kamali_Ganesan_Resume.pdf" download>
     <img src="https://img.shields.io/badge/DOWNLOAD-0284C7?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
+
+---
 
 ## Connect With Me
 
