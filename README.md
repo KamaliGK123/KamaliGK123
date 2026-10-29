@@ -71,19 +71,16 @@ Connect With Me
 
 <p align="left">
   <a href="mailto:kamaliganesan2005@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email" target="blank"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kamali-ganesan-27584934b/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn" target="blank"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/KamaliGK123">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" alt="GitHub" target="blank"/>
   </a>
 </p>
 
-<p>
-  Email: <a href="mailto:kamaliganesan2005@gmail.com">kamaliganesan2005@gmail.com</a>
-</p>
 
 <p align="center">
   <i>Learning continuously. Building consistently. Improving every day.</i>
