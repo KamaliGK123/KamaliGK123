@@ -7,14 +7,14 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎓 BTech Information Technology Student
-- 💻 Focused on Frontend Development using React.js
-- 🚀 Building interactive and responsive web applications
-- 🛠️ Learning by developing projects and exploring new technologies
-- 🏆 TN-IMPACT 2026 Hackathon Special Prize Winner
-- 🎯 Goal: To become a skilled Frontend Developer
+🎓 BTech Information Technology Student
+💻 Focused on Frontend Development using React.js
+🚀 Building interactive and responsive web applications
+🛠️ Learning by developing projects and exploring new technologies
+🏆 TN-IMPACT 2026 Hackathon Special Prize Winner
+🎯 Goal: To become a skilled Frontend Developer
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 🧰 Tools & Technologies
+###  Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools and Technologies" />
@@ -34,15 +34,15 @@
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
-- 🥇 TN-IMPACT 2026 Hackathon — Special Prize Winner
-- 🚀 Participated in Zoho Hackathon
-- 💡 Built multiple projects to improve frontend development skills
+-  TN-IMPACT 2026 Hackathon — Special Prize Winner
+-  Participated in Zoho Hackathon
+-  Built multiple projects to improve frontend development skills
 
 ---
 
-### 📂 Projects
+###  Projects
 
 - 🌐 **Personal Portfolio** — Showcasing my skills, projects, and achievements.
 - 🎙️ **Voice Assistant Project** — Exploring voice-based interactions and user-friendly interfaces.
@@ -62,6 +62,26 @@
 </p>
 
 ---
+## resume
+<div class="resume-buttons">
+  <a
+    href="/Kamali_Ganesan_Resume.pdf"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="resume-btn"
+  >
+    Resume
+  </a>
+
+  <a
+    href="/Kamali_Ganesan_Resume.pdf"
+    download="Kamali_Ganesan_Resume.pdf"
+    class="download-btn"
+  >
+    Download Resume
+  </a>
+</div>
+
 ## Connect With Me
 
 <p align="left">
