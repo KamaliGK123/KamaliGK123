@@ -44,13 +44,13 @@
 
 ###  Projects
 
-- 🌐 **Personal Portfolio** — Showcasing my skills, projects, and achievements.
-- 🎙️ **Voice Assistant Project** — Exploring voice-based interactions and user-friendly interfaces.
-- 🤖 **AI-Powered Projects** — Building projects that explore AI integration and practical applications.
+- **Personal Portfolio** — Showcasing my skills, projects, and achievements.
+- **Voice Assistant Project** — Exploring voice-based interactions and user-friendly interfaces.
+- **AI-Powered Projects** — Building projects that explore AI integration and practical applications.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KamaliGK123&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
@@ -62,25 +62,15 @@
 </p>
 
 ---
-## resume
-<div class="resume-buttons">
-  <a
-    href="/Kamali_Ganesan_Resume.pdf"
-    target="_blank"
-    rel="noopener noreferrer"
-    class="resume-btn"
-  >
-    Resume
-  </a>
+## Resume
 
-  <a
-    href="/Kamali_Ganesan_Resume.pdf"
-    download="Kamali_Ganesan_Resume.pdf"
-    class="download-btn"
-  >
-    Download Resume
+<p>
+  <a href="./Kamali_Ganesan_Resume.pdf">
+    <img src="https://img.shields.io/badge/RESUME-555555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Resume"/>
+  </a><a href="./Kamali_Ganesan_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/DOWNLOAD-0284C7?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume"/>
   </a>
-</div>
+</p>
 
 ## Connect With Me
 
